@@ -1,0 +1,6 @@
+{
+  "delete": true,
+  "directory": ["./components", "./stores", "./libs", "./app/", "./hooks"],
+  "location": "all",
+  "singleQuotes": true
+}
